@@ -59,7 +59,9 @@ The long-term vision is to make social value flow directly into Bitcoin, in a si
 
 This project sits within a larger research direction around Bitcoin-native governance, identity, and digital finance.
 
+
+
 <img width="353" height="373" alt="Screenshot 2026-04-21 at 3 08 52 PM" src="https://github.com/user-attachments/assets/bd0219d6-64f8-4547-a805-38c56c32f313" />
-<img width="372" height="386" alt="Screenshot 2026-04-21 at 3 08 06 PM" src="https://github.com/user-attachments/assets/0d88204b-8155-4975-92c8-3c858fc972bf" />
+
 
 
