@@ -40,13 +40,38 @@ https://www.figma.com/make/Serb6fVnbXF1jXxDo0jNLv/Bitcoin-Bank-Prototype?p=f&ful
 
 <img width="1400" height="2600" alt="Image 4-18-26 at 10 50 AM (1) 3" src="https://github.com/user-attachments/assets/ee68a125-af25-479f-a576-f177ef442421" />
 
+## Background
+
+Social platforms capture creator value through ads and algorithms. Bitcoin Bank flips this.
+
+**The core insight:** Lightning Network + Nostr enable instant, sovereign micropayments tied directly to posts and attention.
+
+This creates a natural path to **Universal Basic Income for creators** - attention becomes sats, posts become payments.
+
+Started April 2026 as a Bitcoin-native experiment in social finance.
 
 ## Links
 
-- Nostr: primal.net/p/npub1pkx92m60skq9pzs90m3yqq9tvwh03xhzc0haeqqc4exjcu7l6ntsanxwks
+- [GitHub Repo](https://github.com/joanna2028/bitcoin-bank-nostr)
+- [Nostr](http://primal.net/p/npub1pkx92m60skq9pzs90m3yqq9tvwh03xhzc0haeqqc4exjcu7l6ntsanxwks)
+- [X](https://x.com/joan_internet)
+
+## Commercial / Contact
+
+**Building in public.** Open to:
+- Technical collaborators
+- Lightning node operators  
+- Creator partners
+- Bitcoin infrastructure discussions
+
+DM on Nostr/X or fork the repo.
+
+## Links
+
+- Nostr: http://primal.net/p/npub1pkx92m60skq9pzs90m3yqq9tvwh03xhzc0haeqqc4exjcu7l6ntsanxwks
 - X: https://x.com/joan_internet
-- GitHub: https://github.com/joanna2028/BITCOIN-BANK
 - LiinkedIn: https://www.linkedin.com/in/jsmithnetwork/
+- GitHub: https://github.com/joanna2028/BITCOIN-BANK
 
 ## Project vision
 
@@ -62,6 +87,7 @@ This project sits within a larger research direction around Bitcoin-native gover
 
 
 <img width="353" height="373" alt="Screenshot 2026-04-21 at 3 08 52 PM" src="https://github.com/user-attachments/assets/bd0219d6-64f8-4547-a805-38c56c32f313" />
+
 
 
 
