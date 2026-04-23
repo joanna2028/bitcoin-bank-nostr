@@ -89,6 +89,8 @@ This project sits within a larger research direction around Bitcoin-native gover
 <img width="353" height="373" alt="Screenshot 2026-04-21 at 3 08 52 PM" src="https://github.com/user-attachments/assets/bd0219d6-64f8-4547-a805-38c56c32f313" />
 
 
+**Status:** Ready for Jack/Hack Nation ("Nostr payments live").
+
 
 
 
