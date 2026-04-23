@@ -32,6 +32,8 @@ Bitcoin Bank explores a cleaner model where value can move directly through Bitc
 - Clear product thesis
 - Nostr + Lightning direction
 
+## Figma Prototype
+
 https://www.figma.com/make/Serb6fVnbXF1jXxDo0jNLv/Bitcoin-Bank-Prototype?p=f&fullscreen=1
 
 <img width="1272" height="810" alt="Screenshot 2026-04-21 at 10 58 15 AM" src="https://github.com/user-attachments/assets/9944c1b8-5162-457b-8e93-3b02f04e7e19" />
@@ -72,9 +74,9 @@ Bitcoin Bank is designed as a practical Bitcoin-native layer for social payments
 
 The long-term vision is to make social value flow directly into Bitcoin, in a simple and usable way.
 
-https://www.figma.com/make/TaRlRAVivhZrujfjYsN1MO/Pitch-Deck-Creation
+## Figma Pitch
 
-https://www.figma.com/make/Serb6fVnbXF1jXxDo0jNLv/Bitcoin-Bank-Prototype?p=f&fullscreen=1
+https://www.figma.com/make/TaRlRAVivhZrujfjYsN1MO/Pitch-Deck-Creation
 
 
 ## Background
