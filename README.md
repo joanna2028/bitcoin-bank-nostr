@@ -66,18 +66,15 @@ Started April 2026 as a Bitcoin-native experiment in social finance.
 
 DM on Nostr/X or fork the repo.
 
-## Links
-
-- Nostr: http://primal.net/p/npub1pkx92m60skq9pzs90m3yqq9tvwh03xhzc0haeqqc4exjcu7l6ntsanxwks
-- X: https://x.com/joan_internet
-- LiinkedIn: https://www.linkedin.com/in/jsmithnetwork/
-- GitHub: https://github.com/joanna2028/BITCOIN-BANK
-
 ## Project vision
 
 Bitcoin Bank is designed as a practical Bitcoin-native layer for social payments and creator monetization.
 
 The long-term vision is to make social value flow directly into Bitcoin, in a simple and usable way.
+
+https://www.figma.com/make/TaRlRAVivhZrujfjYsN1MO/Pitch-Deck-Creation
+
+https://www.figma.com/make/Serb6fVnbXF1jXxDo0jNLv/Bitcoin-Bank-Prototype?p=f&fullscreen=1
 
 
 ## Background
@@ -85,11 +82,11 @@ The long-term vision is to make social value flow directly into Bitcoin, in a si
 This project sits within a larger research direction around Bitcoin-native governance, identity, and digital finance.
 
 
+## Vision Repo (World Jurisdiction)
+[![BITCOIN BANK AGI](https://github.com/joanna2028/-BITCOIN-BANK-World-Jurisdiction-AGI/raw/main/banner.jpg)](https://github.com/joanna2028/-BITCOIN-BANK-World-Jurisdiction-AGI)
 
-<img width="353" height="373" alt="Screenshot 2026-04-21 at 3 08 52 PM" src="https://github.com/user-attachments/assets/bd0219d6-64f8-4547-a805-38c56c32f313" />
-
-
-**Status:** Ready for Jack/Hack Nation ("Nostr payments live").
+---
+**Status:** Ready for Jack Dorsey + Hack Nation - "Nostr payments live" ⚡🚀
 
 
 
