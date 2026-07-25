@@ -86,7 +86,7 @@ This project sits within a larger research direction around Bitcoin-native gover
 
 ## Vision Repo (World Jurisdiction)
 
-BITCOIN AGI: https://github.com/joanna2028/-BITCOIN-BANK-World-Jurisdiction-AGI
+BITCOIN AGI: https://github.com/josmith-btc/-BITCOIN-BANK-World-Jurisdiction-AGI
 
 ---
 **Status:** Ready for Jack Dorsey + Hack Nation - "Nostr payments live" ⚡🚀
